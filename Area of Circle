@@ -1,0 +1,6 @@
+# Formular for calculating the Area of a circle is π*r*r
+# Nwachukwu Maryann Mmesoma 2017364085
+π = 3.14  
+Radius = float (input ("Please enter the radius of the given circle: "))  
+area_of_the_circle = π * Radius * Radius  
+print (" The area of the given circle is: ", area_of_the_circle)
